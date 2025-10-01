@@ -1,8 +1,7 @@
 <resources>
     <string name="app_name">MyApplication</string>
-    <string name="Text1">Discover Your Dream Job Here</string>
-    <string name="Text2">Explore all the existing job based on your interest and study major</string>
+    <string name="discover_your_dream_job_here">Discover Your Dream Job Here</string>
     <string name="login">Login</string>
     <string name="register">Register</string>
-    <string name="discover_your_dream_job_here">Discover Your Dream Job Here</string>
+    <string name="Text2">Explore all the existing job based on your interest and study major.</string>
 </resources>
